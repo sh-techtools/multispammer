@@ -1,5 +1,5 @@
 #########################################
-# Made at https://discord.gg/Ztkpp6nYP8 #
+# Made at https://discord.gg/E42nEXjGkx #
 #########################################
 
 import os
@@ -20,7 +20,7 @@ b = r"""
  / /  / / /_/ / /___/ / _/ / ___/ / ____/ ___ |/ /  / / /  / / /___/ _, _/ 
 /_/  /_/\____/_____/_/ /___//____/_/   /_/  |_/_/  /_/_/  /_/_____/_/ |_|
                             Made by SH_Dev
-                             .gg/Ztkpp6nYP8                                                                   
+                             .gg/E42nEXjGkx                                                                   
 """
 
 def loadwebhooks():
